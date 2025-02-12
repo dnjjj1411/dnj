@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dmke8azzv/video/upload/v1739366183/Natalie_Cole_-_Starting_Over_Again_Official_Audio_gl0ar6.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dmke8azzv/video/upload/v1739369075/Lahat_ng_Bukas_-_Cup_of_Joe_ft._Keanna_Mag_Official_Lyric_Video_fhhfcc.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
